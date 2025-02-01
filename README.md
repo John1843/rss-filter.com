@@ -1,5 +1,5 @@
-# rss-filter.com
-RSS-Filter.com
+#  https://www.rss-filter.com/
+
 
 A clean reader app with advanced filtering options, including a blacklist, a graylist and a whitelist.
 
